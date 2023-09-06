@@ -1,0 +1,8 @@
+C:\Users\Aluno\Desktop\POO_Método\ProjetoPOO\Atividade 01-09-2023\Atividade 01-09\Atividade 01-09\bin\Debug\Atividade 01-09.exe.config
+C:\Users\Aluno\Desktop\POO_Método\ProjetoPOO\Atividade 01-09-2023\Atividade 01-09\Atividade 01-09\bin\Debug\Atividade 01-09.exe
+C:\Users\Aluno\Desktop\POO_Método\ProjetoPOO\Atividade 01-09-2023\Atividade 01-09\Atividade 01-09\bin\Debug\Atividade 01-09.pdb
+C:\Users\Aluno\Desktop\POO_Método\ProjetoPOO\Atividade 01-09-2023\Atividade 01-09\Atividade 01-09\obj\Debug\Atividade 01-09.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\POO_Método\ProjetoPOO\Atividade 01-09-2023\Atividade 01-09\Atividade 01-09\obj\Debug\Atividade 01-09.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\POO_Método\ProjetoPOO\Atividade 01-09-2023\Atividade 01-09\Atividade 01-09\obj\Debug\Atividade 01-09.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\POO_Método\ProjetoPOO\Atividade 01-09-2023\Atividade 01-09\Atividade 01-09\obj\Debug\Atividade 01-09.exe
+C:\Users\Aluno\Desktop\POO_Método\ProjetoPOO\Atividade 01-09-2023\Atividade 01-09\Atividade 01-09\obj\Debug\Atividade 01-09.pdb
